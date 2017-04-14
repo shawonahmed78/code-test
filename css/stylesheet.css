@@ -36,11 +36,9 @@ ul li {
 	width: 160px;
 	height: auto;
 	list-style-type: none;
-	background-color: black;
+	background-color: tomato;
 }
-ul:last-child li{
-	margin:0;
-}
+
 
 ul li a{
 	padding:10px 0;
@@ -64,7 +62,20 @@ ul li a{
 ul a:hover { 
 	background-color: white;
 	color: black;
-	transform: rotate(40deg);
+}
+
+span {
+	float: right;
+	margin-right: 5px;
+}
+
+.sub-manu {
+	margin: 0;
+	width: 400px;
+}
+
+.sub-manu li {
+	border-bottom: 1px solid white;
 }
 
 
