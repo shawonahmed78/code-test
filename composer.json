@@ -1,0 +1,10 @@
+{
+    "name": "shawo/code-test",
+	"Author": [ {
+		"name":"Shawon Ahmed";
+		"email":"shawonahmed78@gmail.com"
+	}
+	],
+	
+    "require": {}
+}
