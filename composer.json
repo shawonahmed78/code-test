@@ -1,10 +1,12 @@
 {
     "name": "shawo/code-test",
 	"Author": [ {
-		"name":"Shawon Ahmed";
+		"name":"Shawon Ahmed",
 		"email":"shawonahmed78@gmail.com"
 	}
 	],
 	
-    "require": {}
+    "require": {
+        "illuminate/support": "^5.4"
+    }
 }
