@@ -1,0 +1,14 @@
+{
+    "name": "shawo/composer-test",
+    "description": "This is my test project.",
+    "authors": [
+        {
+            "name": "Shawon Ahmed",
+            "email": "shawonahmed78@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^5.4",
+        "illuminate/events": "^5.4"
+    }
+}
